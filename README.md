@@ -4,6 +4,7 @@ Retrieval-augmented AI system for semantic search and exploration of clinical ca
 
 ![Digital Twin Retriever](https://raw.githubusercontent.com/digital-twin-retriever/streamlit-app/main/img/digital-twin-retriever-dashboard.webp)
 
+
 ## Introduction
 
 **Digital Twin Retriever** is an AI-powered clinical retrieval system designed to help users search, retrieve, and summarize real-world clinical case reports.
