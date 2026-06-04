@@ -2,7 +2,7 @@
 
 Retrieval-augmented AI system for semantic search and exploration of clinical case reports.
 
-![Digital Twin Retriever](https://raw.githubusercontent.com/digital-twin-retriever/streamlit-app/main/img/digital-twin-retriever-dashboard.webp)
+![Digital Twin Retriever](https://github.com/carogaltier/img/digital-twin-retriever-dashboard.webp)
 
 
 ## Introduction
